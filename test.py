@@ -1,6 +1,6 @@
 print("Hello World")
 
-print("Vaibhav Raj")
+print("Anup Singh")
 
 def fun(x):
   res = x ** 2
